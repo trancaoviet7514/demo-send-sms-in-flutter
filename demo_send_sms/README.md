@@ -2,7 +2,7 @@
 ## Step 1:
 Provide a permission **SEND_SMS** in your AndroidMainifest.xml
 ## Step 2: 
-Add a depences in pubspec.yaml file:<br/>
+Add a dependency in **pubspec.yaml**:<br/>
 Something like:<br/>
 **dependencies:**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**flutter:**<br/>
